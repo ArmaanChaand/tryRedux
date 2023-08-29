@@ -13,6 +13,9 @@ function Sidebar() {
                     <NavLink to='/counter/' className={({isActive}) => isActive ? "active" : ""}>
                         Counter
                     </NavLink>
+                    <NavLink to='/blog/' className={({isActive}) => isActive ? "active" : ""}>
+                        Blog
+                    </NavLink>
                 </li>
             </ul>
         </div>

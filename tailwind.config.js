@@ -13,8 +13,8 @@ export default {
     require("daisyui"),
   ],
   daisyui: {
-    themes: ['cyberpunk'],
-    darkTheme: 'cyberpunk'
+    themes: ['lofi'],
+    darkTheme: 'lofi'
   }
 }
 
